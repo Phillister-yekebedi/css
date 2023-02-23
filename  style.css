@@ -1,0 +1,56 @@
+body{ 
+   background-image: url(./gal2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-color: purple;
+}
+.yeke{
+    float: right;
+    color: aliceblue;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+  
+}
+.cont{
+    margin-left: 200px;
+    margin-top: 150px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+}
+ul li{
+    margin: 20px;
+}
+
+.login{
+    border-radius: 18px;
+    size:20px ;
+    background-color: transparent;
+    padding: 0px 10px;
+    color: aliceblue;
+    border:  1px solid white;
+
+}
+    
+
+.order{
+    border-radius: 30px;
+    padding: 20px 100px;
+    background-color: rgb(243, 243, 248);
+
+}
+.photo{
+    float: right;
+}
+.box1{
+    display: flex;
+        padding-left: 20px;
+
+}
+.box2{
+    display: flex;
+}
